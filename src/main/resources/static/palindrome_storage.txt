@@ -1,0 +1,4 @@
+JD: madam is a palindrome
+madam: JD is not a palindrome
+howAreYou: TestUser is not a palindrome
+testUser: HowAreYou is not a palindrome
